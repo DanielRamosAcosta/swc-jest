@@ -18,5 +18,8 @@
   "devDependencies": {
     "@swc/core": "^1.0.40",
     "jest": "^24.7.1"
+  },
+  "peerDependencies": {
+    "@swc/core": "^1.0.0"
   }
 }
