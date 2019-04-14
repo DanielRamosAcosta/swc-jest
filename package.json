@@ -1,12 +1,16 @@
 {
   "name": "swc-jest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jest plugin to use swc for transformation",
   "main": "./index.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
   },
+  "keywords": [
+    "swc",
+    "jest"
+  ],
   "author": {
     "name": "Daniel Ramos",
     "email": "danielramosacosta@hotmail.com"
