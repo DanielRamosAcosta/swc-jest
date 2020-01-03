@@ -1,6 +1,6 @@
 {
   "name": "swc-jest",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Jest plugin to use swc for transformation",
   "main": "./index.js",
   "scripts": {
