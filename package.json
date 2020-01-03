@@ -17,13 +17,13 @@
   },
   "license": "MIT",
   "dependencies": {
-    "convert-source-map": "^1.6.0"
+    "convert-source-map": "^1.7.0"
   },
   "devDependencies": {
-    "@swc/core": "^1.0.40",
-    "jest": "^24.7.1"
+    "@swc/core": "^1.1.11",
+    "jest": "^24.9.0"
   },
   "peerDependencies": {
-    "@swc/core": "^1.0.0"
+    "@swc/core": "^1.1.11"
   }
 }
