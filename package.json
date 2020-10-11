@@ -24,6 +24,6 @@
     "jest": "^26.5.2"
   },
   "peerDependencies": {
-    "@swc/core": "^1.0.0"
+    "@swc/core": "^1.1.11"
   }
 }
